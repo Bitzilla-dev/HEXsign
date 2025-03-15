@@ -6,7 +6,7 @@
 🤖 **Telegram Bot:** [HEXsignBot](https://t.me/HEXsignBot)  
 
 🔹 **Standalone Windows Version**  
-- [HEXsign_0.1.0_x64.exe](#) (11 MB)  
+- [HEXsign_0.1.0_x64.exe](https://github.com/Bitzilla-dev/HEXsign/releases/download/app/HEXsign_0.1.0_x64.exe#) (11 MB)  
 - [HEXsign_0.1.0_x64_en-US.msi](#) (5 MB)  
 
 ## 🔍 What is HEXsign?
