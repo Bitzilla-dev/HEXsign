@@ -38,9 +38,12 @@ While HEXsign can be generated via a **website** or **Telegram bot**, these meth
 
 ---
 
-Support Our Open-Source Project ❤️
-Your donations help us continue development and keep the project free for everyone.
+# Support Our Open-Source Project ❤️  
 
-🔹 ETH: **0x4Cb4621136126F7950c4B32BeFfBD15d8f8e6AB8**
-🔹 BTC: **bc1p2tc2d4edahuklwzgmsa2jdtk6dp744ugpcy9ceejtz8dpp6y22eq80yrqz**
+Your donations help us continue development and keep the project free for everyone.  
+
+🔹 **ETH:** `0x4Cb4621136126F7950c4B32BeFfBD15d8f8e6AB8`  
+🔹 **BTC:** `bc1p2tc2d4edahuklwzgmsa2jdtk6dp744ugpcy9ceejtz8dpp6y22eq80yrqz`  
+
+Thank you for your support! 🚀  
 
