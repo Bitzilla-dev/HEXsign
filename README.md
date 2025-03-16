@@ -36,3 +36,10 @@ While HEXsign can be generated via a **website** or **Telegram bot**, these meth
 🌐 **Website:** [HEXsign.org](https://www.hexsign.org)  
 🤖 **Telegram Bot:** [HEXsignBot](https://t.me/HEXsignBot)
 
+---
+
+Support Our Open-Source Project ❤️
+Your donations help us continue development and keep the project free for everyone.
+ETH: **0x4Cb4621136126F7950c4B32BeFfBD15d8f8e6AB8**
+BTC: **bc1p2tc2d4edahuklwzgmsa2jdtk6dp744ugpcy9ceejtz8dpp6y22eq80yrqz**
+
