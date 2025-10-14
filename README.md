@@ -5,7 +5,7 @@
 🌐 **Website:** [HEXsign.org](https://www.hexsign.org)  
 
 💻 **Offline HTML Version:**  
-- [HEXsign Offline Generator](https://github.com/Bitzilla-dev/HEXsign/releases/download/app/HEXsign-offline.html)
+- [HEXsign Offline Generator](https://github.com/Bitzilla-dev/HEXsign/releases/download/offline/HEXsign-offline.html)
 
 🔹 **Standalone Windows Version**  
 - [HEXsign_0.1.0_x64.exe](https://github.com/Bitzilla-dev/HEXsign/releases/download/app/HEXsign_0.1.0_x64.exe#) (11 MB)  
